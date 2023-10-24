@@ -7,4 +7,4 @@ Install the below mentioned libaries
 
 #This project doesn't contain circuit diagram since we are using onboard sensors of arduino nano 33 BLE sense
 
-Cheers 
+Cheers 🍻
